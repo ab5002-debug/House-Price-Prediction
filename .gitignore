@@ -1,0 +1,19 @@
+#Virtual Environment
+venv/
+
+#Main Data(Big Files)
+data/raw/
+
+#Python Cache
+__pycache__/
+*.pyc
+
+#Jupyter Checkpoint
+.ipynb_checkpoints/
+
+#Trained Models
+models/*.pkl
+models/*.joblib
+
+#macOS
+.DS_Store
